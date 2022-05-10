@@ -8,6 +8,7 @@ public class ReadingDataFromCommandLineTest {
 	String	URL=System.getProperty("url");
 	String UN = System.getProperty("username");
 	String PWD = System.getProperty("password");
+		system.out.println("is the");
 	System.out.println(URL);
 	System.out.println(UN);
 	System.out.println(PWD);
